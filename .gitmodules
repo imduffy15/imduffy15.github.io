@@ -1,3 +1,0 @@
-[submodule "packer-xenserver"]
-	path = packer-xenserver
-	url = git@github.com:imduffy15/packer-xenserver.git
