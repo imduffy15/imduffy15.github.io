@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://imduffy15.github.io/sitemap.xml 
